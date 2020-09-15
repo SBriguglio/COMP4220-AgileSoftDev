@@ -1,1 +1,5 @@
-# COMP4220-AgileSoftDev
+# COMP4220-AgileSoftDev Project
+
+## Contributors
+
+- Spencer Briguglio
